@@ -19,33 +19,33 @@ Board layout:
  
 How to Play
 
-The game starts by displaying an empty board.
+. The game starts by displaying an empty board.
 
-Player X goes first, followed by Player O.
+. Player X goes first, followed by Player O.
 
-Players take turns choosing a number between 1-9 corresponding to the space they want to mark.
+. Players take turns choosing a number between 1-9 corresponding to the space they want to mark.
 
-The game checks for:
+. The game checks for:
 
-A win (three of the same marks in a row, column, or diagonal)
+. A win (three of the same marks in a row, column, or diagonal)
 
-A tie (all spaces filled with no winner)
+. A tie (all spaces filled with no winner)
 
-After the game ends, a winner or tie is announced.
+. After the game ends, a winner or tie is announced.
 
 Code Structure
 
-main() – Game loop and player turn management
+. main() – Game loop and player turn management
 
-getBlankBoard() – Creates a blank game board
+. getBlankBoard() – Creates a blank game board
 
-getBoardStr() – Returns a string representation of the board
+. getBoardStr() – Returns a string representation of the board
 
-isValidSpace() – Checks if a move is valid
+. isValidSpace() – Checks if a move is valid
 
-isWinner() – Checks if a player has won
+. isWinner() – Checks if a player has won
 
-isBoardFull() – Checks for a full board (tie)
+. isBoardFull() – Checks for a full board (tie)
 
-updateBoard() – Updates the board with a player's move
+. updateBoard() – Updates the board with a player's move
 
