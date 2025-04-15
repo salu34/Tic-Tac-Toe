@@ -5,9 +5,13 @@ This is a console-based, two-player game of Tic-Tac-Toe, where players take turn
 
 Board layout:
  1 | 2 | 3
+ 
 ---+---+---
+
  4 | 5 | 6
+ 
 ---+---+---
+
  7 | 8 | 9
  
 How to Play
