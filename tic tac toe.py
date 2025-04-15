@@ -2,8 +2,7 @@
 
 """ Tic-Tac-Toe, by Al Sweigart al@inventwithpython.com
 The classic board game.
-This code is available at https://nostarch.com/big-book-small-python-programming
-Tags: short, board game, game, two-player"""
+"""
   
 ALL_SPACES = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
 X, O, BLANK = 'X', 'O', ' '  # Constants for string values.
