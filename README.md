@@ -4,6 +4,7 @@ A simple, text-based implementation of the classic Tic-Tac-Toe board game for tw
 This is a console-based, two-player game of Tic-Tac-Toe, where players take turns entering their moves by choosing a space number from 1 to 9 on a 3×3 grid.
 
 Board layout:
+
  1 | 2 | 3
  
 ---+---+---
